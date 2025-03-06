@@ -1,5 +1,15 @@
 # @tabler/core
 
+## 1.2.0
+
+### Minor Changes
+
+- c59bc9d: Add gradient background utilities
+
+### Patch Changes
+
+- 6b6617a: Improve README
+
 ## 1.1.1
 
 ### Patch Changes
